@@ -1,5 +1,40 @@
 [
   {
+    "nama": "Watercolor Peacock",
+    "gambar": "assets/Watercolor Peacock.png",
+    "link": "https://msainvitation.com/preview/watercolor-peacock",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","wayang","jawa","putih","tanpa foto","merak"]
+  },
+  {
+    "nama": "Art Blue Java",
+    "gambar": "assets/Art Blue Java.png",
+    "link": "https://msainvitation.com/preview/art-blue-java",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","wayang","jawa","putih","tanpa foto","minimalis"]
+  },
+  {
+    "nama": "Maroon Aceh",
+    "gambar": "assets/Maroon Aceh.png",
+    "link": "https://msainvitation.com/preview/maroon-aceh",
+    "kategori": "tanpafoto",
+    "keyword": ["maroon","emas","gold","modern","tanpa foto","minimalis"]
+  },
+  {
+    "nama": "Sage Watercolor",
+    "gambar": "assets/Sage Watercolor.png",
+    "link": "https://msainvitation.com/preview/sage-watercolor",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","simple","hijau","islami","tanpa foto","minimalis"]
+  },
+  {
+    "nama": "Blue Butterflya",
+    "gambar": "assets/Blue Butterflya.png",
+    "link": "https://msainvitation.com/preview/blue-butterfly",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","simple","mawar","modern","tanpa foto","minimalis"]
+  },
+  {
     "nama": "Eternal Farm",
     "gambar": "assets/Eternal Farm.png",
     "link": "https://id.sudahnikah.com/d/Eternal-Farm?kpd=Tamu+Undangan",
